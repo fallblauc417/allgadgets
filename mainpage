@@ -8,3 +8,15 @@
 background-color: lightblue;
 }
 
+<h1> {
+color: black;
+}
+
+<p> {
+color: black;
+}
+
+</style>
+<body>
+</body>
+</html>
